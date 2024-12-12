@@ -1,6 +1,6 @@
 package GUI;
 
-import Controller.LoginCheck;
+// import Controller.LoginCheck;
 
 import java.awt.event.ActionListener;
 import java.awt.print.Book;
